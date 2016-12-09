@@ -4,7 +4,7 @@ DATE=$(date +"%F")
 BACKUP_DIR="/opt/backup/DAILY-MYSQL"
 MYSQL_USER="root"
 MYSQL=/usr/bin/mysql
-MYSQL_PASSWORD="G1rb1R"
+MYSQL_PASSWORD=""
 MYSQLDUMP=/usr/bin/mysqldump
 
 
